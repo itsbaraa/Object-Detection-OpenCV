@@ -1,4 +1,4 @@
-# Object Detection with OpenCV and YOLOv8
+## Object Detection with OpenCV and YOLOv8
 A Python project that detects cars in a video using the Ultralytics YOLOv8 model and displays the results live with OpenCV.
 
 ## Prerequisites
