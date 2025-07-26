@@ -14,7 +14,7 @@ The code will:
 1. Load the tiny YOLOv8 model (`yolov8n.pt`).
 2. Read frames from `cars.mp4`.
 3. Draw green bounding-boxes around objects classified as **car**.
-4. Show the annotated frames in a window until you press `Esc`.
+4. Show the annotated frames in a window.
 
 ## Showcase
 ![Showcase](https://github.com/user-attachments/assets/0b10767b-65f1-466e-b21d-cccb645147c3)
